@@ -1,11 +1,8 @@
-*{
-    font-family: Verdana;
-}
+img {
 
-p {
-  color:aquamarine;
-}
-
-h1 {
-  color: maroon;
+    display :block;
+    width : 100%;
+    max-width : 100%;
+    height: auto;
+    
 }
